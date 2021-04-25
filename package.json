@@ -1,0 +1,23 @@
+{
+  "name": "dockerAutomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krisz0214/dockerAutomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krisz0214/dockerAutomation/issues"
+  },
+  "homepage": "https://github.com/Krisz0214/dockerAutomation#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
